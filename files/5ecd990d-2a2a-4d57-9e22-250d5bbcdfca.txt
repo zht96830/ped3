@@ -1,0 +1,5 @@
+/home/ubuntu/anaconda3/envs/tensorflow_p36/bin/python
+/home/ubuntu/anaconda3/envs/tensorflow_p36/bin/jupyter notebook
+
+ssh -fNL 8888:localhost:8888 3244-1910-0030-3@3.132.36.117
+ssh 3244-1910-0030-3@3.132.36.117
